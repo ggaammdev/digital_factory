@@ -1,6 +1,6 @@
 # Agent Factory Manager (AFM) v2.0
 
-The **Agent Factory Manager** is a dynamic simulation where an AI agent acts as the operator of a digital twin of the manufacturing plant. This AI agent continuously monitors key business metrics like inventory, funds, and machine status to make autonomous, strategic decisions that optimize production efficiency. It adapts to changing market conditions and operational challenges, demonstrating how AI agents can independently manage complex workflows and drive successful outcomes in a simulated industrial environment.
+The **Agent Factory Manager** is a dynamic simulation where an AI agent acts as the operator of a digital twin of a manufacturing plant. This AI agent continuously monitors key business metrics like inventory, funds, and machine status to make informed, autonomous, and strategic decisions that optimize production efficiency. It adapts to changing market conditions and operational challenges, demonstrating how AI agents demonstrate agency in a simulated industrial environment.
 
 ## Features
 
