@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+factory.db
+*.pyc
+.DS_Store
